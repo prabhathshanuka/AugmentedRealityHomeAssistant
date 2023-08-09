@@ -56,7 +56,7 @@ after that you have to activate virtual envirement click activate.bat in your sc
 now you can install all the necesary libraries
 
 affter doing that you can impliment iot device in here i am using nodemcu
-to writ for node mce u want 
+to write for nodemcu  you want to arduino  ide download  it and config 
   
 
 
