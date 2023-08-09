@@ -1,3 +1,5 @@
+You can watch this project in action here : https://youtu.be/w_icYcQmUQk
+
 I have completed an exciting project using Unity, Python, and IOT called AugmentedRealityHomeAssistant. The primary language utilized in this project is Python, and I have found a way to communicate through sockets. I also incorporated AR technology with the Vuforia plugin to track an image target and position 3D objects. 
 
 To create the animation, I used Blender. I created a character controller script in Unity and used its animator to implement the logic for the animations.
